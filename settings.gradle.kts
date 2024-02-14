@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetpackComposeNavigation"
+rootProject.name = "ComposeNavigationApplication"
 include(":app")
+ 
